@@ -1,6 +1,6 @@
 {% set name = "igv" %}
-{% set version = "2.9.0" %}
-{% set sha256 = "6a63964645e4d0995bcb95ef19e29d3c586f2b992192120be0bcf31608e25273" %}
+{% set version = "2.10.0" %}
+{% set sha256 = "73bf2534ad338c67603b47170aafeaad85243497fada6250fd11eeae90aab7e5" %}
 
 package:
   name: {{ name|lower }}
